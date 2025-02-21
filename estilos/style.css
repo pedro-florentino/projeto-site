@@ -29,6 +29,10 @@ img.lado {
     float: right;
 }
 
+iframe {
+    width: 500px;
+}
+
 a {
     text-decoration: none;
     font-weight: bold;
